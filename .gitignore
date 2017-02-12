@@ -1,0 +1,7 @@
+.vagrant/*
+
+resources/.DS_Store
+resources/kafka_2.11-0.10.1.1.tgz
+resources/nifi-1.1.1-bin.tar.gz
+ubuntu-xenial-16.04-cloudimg-console.log
+.DS_Store
